@@ -48,9 +48,13 @@ Contributions are welcome! Please follow the [contributing guidelines](CONTRIBUT
 ## License
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
-## Contact
-If you have any questions, suggestions, or need assistance with using the Online Shop using .NET, feel free to reach out:
-- **Email:** [your.email@example.com](mailto:your.email@example.com)
-- **LinkedIn:** [Your Name](https://www.linkedin.com/in/yourname/)
 
-Thank you for using the Online Shop using .NET. Happy shopping and coding!
+## Contact
+If you have any questions or suggestions, feel free to reach out to me:
+- Email: [jmrashed@gmail.com](mailto:jmrashed@gmail.com)
+- LinkedIn: [Md Rasheduzzaman](https://www.linkedin.com/in/md-rasheduzzaman/)
+
+Thank you for considering the Jewelry Stores Management System for your store's needs. I hope it proves to be a valuable asset for managing jewelry store operations effectively.
+
+Happy coding!
+
